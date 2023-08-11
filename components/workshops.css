@@ -70,6 +70,10 @@ body{
     text-align:center;
     margin-bottom: 0;
 }
-.into{
+.intro{
     text-align: center;
-}
+    font-family: 'Lato', sans-serif;
+    margin-top: 35px;
+
+
+};
